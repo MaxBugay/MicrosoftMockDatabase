@@ -34,7 +34,7 @@ MEMBERSHIP CHAR(4),
 EXPIRATION_DATE DATE);
 INSERT INTO XBOXLIVE
 VALUES
-(1,'Bugay','Max','7 Glenwood Ave','Collegeville','PA','19426','610-704-4136','Maximus Monster','GOLD','1-14-2017');
+(1,'Bugay','Max','7 Microsoft Ave','Collegeville','PA','19426','610-704-4136','Maximus Monster','GOLD','1-14-2017');
 INSERT INTO XBOXLIVE
 VALUES
 (2,'Tosco','Jeremy','12 North St.','Trappe','PA','19426','610-487-5601','DrTosco','GOLD','6-3-2016');
@@ -64,7 +64,7 @@ VALUES
 (10,'Stasnek','Charles','21 Diagonal St.','Schwenksville','PA','19473','610-329-9284','Chunkachino','SILVER',null);
 INSERT INTO OFFICE365
 VALUES
-(1,'Bugay','Max','7 Glenwood Ave','Collegeville','PA','19426','610-704-4136','PERSONAL','1-14-2017');
+(1,'Bugay','Max','7 Microsoft Ave','Collegeville','PA','19426','610-704-4136','PERSONAL','1-14-2017');
 INSERT INTO OFFICE365
 VALUES
 (2,'Tosco','Jeremy','12 North St.','Trappe','PA','19426','610-487-5601','PERSONAL','6-3-2016');
@@ -94,7 +94,7 @@ VALUES
 (10,'Stasnek','Charles','21 Diagonal St.','Schwenksville','PA','19473','610-329-9284','HOME','12-31-2015');
 INSERT INTO GROOVEMUSIC
 VALUES
-(1,'Bugay','Max','7 Glenwood Ave','Collegeville','PA','19426','610-704-4136','PASS','1-14-2017');
+(1,'Bugay','Max','7 Microsoft Ave','Collegeville','PA','19426','610-704-4136','PASS','1-14-2017');
 INSERT INTO GROOVEMUSIC
 VALUES
 (2,'Tosco','Jeremy','12 North St.','Trappe','PA','19426','610-487-5601','N/A',null);
